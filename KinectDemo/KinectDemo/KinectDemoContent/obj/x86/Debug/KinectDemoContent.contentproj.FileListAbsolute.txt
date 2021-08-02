@@ -1,0 +1,3 @@
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemoContent\obj\x86\Debug\KinectDemoContent.contentprojResolveAssemblyReference.cache

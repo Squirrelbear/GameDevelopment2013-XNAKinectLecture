@@ -1,0 +1,24 @@
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.exe
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.pdb
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.exe
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.pdb
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Images\face.xnb
+c:\users\brettlaptop\documents\visual studio 2010\Projects\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Feedback.xnb
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.exe
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.pdb
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Images\face.xnb
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Feedback.xnb
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.exe
+C:\Users\Assassian360\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.pdb
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Images\face.xnb
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\Content\Feedback.xnb
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.exe
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\bin\x86\Debug\KinectDemo.pdb
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.exe
+C:\Users\Peter\Dropbox\Uni\KinectDemo\KinectDemo\KinectDemo\obj\x86\Debug\KinectDemo.pdb
